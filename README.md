@@ -9,8 +9,7 @@ development and will be linked when complete.
 
 ####Use
 
-Import, **do not fork**, this repository to your host account on GitHub. Use the import
-untilty provided by GitHub at [https://import.github.com](https://import.github.com)
+Follow the directions of your instructor. You will begin by forking this repositiory into your github account. 
 
 ####Disclaimer
 
